@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background:linear-gradient(#bb56da 0%, #06b3d1 100%)
+}
+.heading{
+    width: 100%;
+    padding: 10px;
+}
+#OInput{
+    background-color: #06b3d1;
+}
+canvas{
+    border-style: ridge;
+    border-color: #bb56da;
+    border-width: 4px;
+    box-shadow: 5px 5px 5px gray;
+}
